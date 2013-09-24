@@ -1,6 +1,9 @@
 # GTK Coffee
 
-run the app:
+Example of building a GTK app with coffeescript:
+
+
+### Running the app
 
     ./app.js
 
